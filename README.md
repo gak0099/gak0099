@@ -48,6 +48,17 @@ I have **10+ years of experience** in DevOps, Cloud Infrastructure, Automation, 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gak0099&layout=compact&theme=tokyonight)
 
+## 🔧 Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
+![HCL](https://img.shields.io/badge/-HCL-orange?logo=terraform&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![Shell Script](https://img.shields.io/badge/-Shell-black?logo=gnu-bash&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-purple?logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-black?logo=amazonaws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
+
 ---
 
 ## 📫 Connect with Me  
