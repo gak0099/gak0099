@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Anil Kumar G  
 
-<!--
-**gak0099/gak0099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior DevOps Engineer | Cloud & Automation Specialist**  
 
-Here are some ideas to get you started:
+🔧 **Tech Stack:**  
+- **Cloud:** AWS | Azure | DigitalOcean  
+- **DevOps Tools:** Jenkins | Ansible | Terraform | Docker | Kubernetes  
+- **Programming & Scripting:** Python | Shell | PowerShell  
+- **Monitoring & Observability:** Splunk ITSI | PagerDuty | CloudWatch  
+- **Databases:** Oracle | MySQL | PostgreSQL | DynamoDB  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 **Highlighted Projects:**  
+- **CI/CD Pipelines** → Automated build & deploy pipelines with Jenkins & Terraform.  
+- **Kubernetes Deployments** → YAML templates for microservices orchestration.  
+- **Splunk Dashboards** → ITSI dashboards, KPIs, glass tables, automated alerts.  
+- **AWS Infra Automation** → Scripts to provision EC2, S3, IAM, Route53 using Terraform & CLI.  
+
+💡 I enjoy automating processes, solving system reliability issues, and sharing DevOps best practices.  
+
+📫 Reach me: [LinkedIn](www.linkedin.com/in/anil-kumar-g-64165462) | ✉️ anil.kumarops09@gmail.com
